@@ -14,6 +14,9 @@ function searchByDay(recibed_day) {
     } else {
         return console.log("No hay servicio ese dia");     
     }
+
+    // finder ? console.log(`Este dia: ${recibed_day}, se encargará: ${finder[1]}`) : console.log("No hay servicio ese dia");
+    // condicion ? true : false
 }
 
 let input_day = "lunes"
